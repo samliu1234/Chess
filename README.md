@@ -1,6 +1,6 @@
 ## Download
 
-Run the command, `git clone https://github.com/samliu1234/Chess`, in terminal, and navigate to the downloaded folder.
+Run the command, `git clone https://github.com/samliu21/Chess`, in terminal, and navigate to the downloaded folder.
 
 Calling `python main.py` within the downloaded folder will get the program running!
 
